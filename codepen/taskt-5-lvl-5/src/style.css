@@ -1,0 +1,30 @@
+.container {
+  display:flex;
+  width:1000px;
+  flex-wrap: wrap;
+  justify-content:flex-end;
+  position: fixed;
+  bottom:20px;
+  right:20px;
+  
+  
+}
+
+.green {
+  color:blue;
+  width:350px;
+  height:350px;
+  background:#51d400;
+}
+
+.yellow {
+   width:350px;
+  height:350px;
+  background:#ffd62a;
+}
+
+.purple {
+     width:350px;
+  height:350px;
+  background:#b02afe;
+}

@@ -1,0 +1,73 @@
+#nadpis {
+  font-family: 'Open Sans';
+  position: relative;
+  margin-right:auto;
+  margin-left:auto;
+  text-align:center;
+  margin-bottom:30px;
+}
+
+.Hi {
+  position:absolute;
+  text-align:center;
+  top: 65%;
+  left:45%;
+  font-size:20px;
+  
+}
+
+.myname {
+  position:absolute;
+  text-align:center;
+  top: 70%;
+  left:45%;
+  font-size:30px;
+}
+
+
+img {
+
+  aling-items: center;
+  height: 60%;
+  width:60%;
+}
+
+.container{
+  font-family: 'Open Sans';
+  margin-left:auto;
+  margin-right:auto;
+  max-width:800px;
+}
+
+.quote {
+font-family: 'Dancing Script', cursive;
+  position:relative;
+  background:grey;
+  widht:150px;
+  text-align:center;
+  padding:50px;
+  color:white;
+  font-size:30px;
+}
+
+i{
+  font-family: 'Dancing Script', cursive;
+  position:absolute;
+  top:2px;
+  left:2px;
+  font-size:50px;
+}
+
+H2 {
+  font-family: 'Goldman', cursive;
+}
+
+H3{
+  font-family: 'Shadows Into Light', cursive;
+}
+
+
+.blackline{
+  background:black;
+  height:10px;
+}

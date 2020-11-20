@@ -1,0 +1,124 @@
+#box {
+  width:800px;
+  padding-bottom:60px;
+  margin-top:0px;
+  margin-left:auto;
+  margin-right:auto;
+  align-content:center;
+}
+
+
+#topmenu {
+  max-width:800px;
+  display:flex;
+  background:black;
+  padding:20px;
+  justify-content: space-around;
+  position:fixed;
+  width: 100%;
+  Z-index:5;
+}
+
+
+a{
+  text-align: center;
+  color:white;
+  font-family: 'Big Shoulders Inline Text', cursive;
+  font-size:150%;
+  
+  
+  
+}
+
+#nadpis {
+  font-family: 'Open Sans';
+  position: relative;
+  margin-right:0px;
+  margin-left:0px;
+  text-align:center;
+  margin-bottom:30px;
+  height:350px;
+  width:400px;
+}
+
+.Hi {
+  position:absolute;
+  text-align:center;
+  top: 35%;
+  left:55%;
+  font-size:30px;
+  font-family: 'Indie Flower', cursive;
+  
+}
+
+.myname {
+  position:absolute;
+  text-align:center;
+  top: 45%;
+  left:70%;
+  font-size:45px;
+  font-family: 'Indie Flower', cursive;
+}
+
+
+img {
+  aling-items: flex-start;
+  max-width:100%;
+  height:100%;
+}
+
+.container{
+  font-family: 'Open Sans';
+  display:flex;
+  justify-content:space-between;
+  align-items:flex-start;
+  flex-wrap: wrap;
+  margin-left:auto;
+  margin-right:auto;
+  max-width:800px;
+}
+
+.quote {
+font-family: 'Dancing Script', cursive;
+  position:relative;
+  background:grey;
+  width:300px;
+  max-height:100px;
+  text-align:center;
+  padding:50px;
+  color:white;
+  font-size:30px;
+}
+
+i{
+  font-family: 'Dancing Script', cursive;
+  position:absolute;
+  top:2px;
+  left:2px;
+  font-size:50px;
+}
+
+.seznam {
+  width:350px;
+  text-align:justify;
+  
+}
+
+
+H2 {
+  font-family: 'Goldman', cursive;
+}
+
+H3{
+  font-family: 'Shadows Into Light', cursive;
+}
+
+
+#blackline {
+  background:black;
+  height:10px;
+}
+
+p{
+  margin-top:50px;
+}

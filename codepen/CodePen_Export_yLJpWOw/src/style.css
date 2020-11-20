@@ -1,0 +1,69 @@
+
+
+.modry-ctverec {
+  display:flex;
+  aling-items:center;
+  left: auto;
+  right:auto;
+  background: cyan;
+  width:800px;
+  height:200px;
+  z-index: -1;
+  margin-bottom:0px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.pruhy{
+  display:flex;
+  justify-content: space-between;
+  height:500px;
+  margin-top:0px;
+  width:800px;
+  margin-right:auto;
+  margin-left:auto;
+  
+}
+
+#jednicka {
+  background:orange;
+  flex-grow:3;
+  margin-top:0px;
+  margin-bottom:0px;
+}
+
+#dvojka {
+  background:red;
+  Flex-grow:7;
+  margin-left:50px;
+  margin-right:50px;
+
+}
+
+#a{
+  height:60px;
+  width:60px;
+  position:relative;
+  display:flex;
+  top:80%;
+  left:80%;
+  background:black;
+}
+
+#trojka {
+  background: purple;
+  flex-grow:3;
+  margin-top:0px;
+  margin-bottom:0px;
+}
+
+footer {
+  background:blue;
+  height:80px;
+  margin-top: 10px;
+  width:800px;
+  margin-top:0px;
+    margin-right:auto;
+  margin-left:auto;
+  
+}
