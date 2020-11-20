@@ -1,0 +1,22 @@
+p{
+    color:red;
+    background: blueviolet;
+}
+
+
+.asteroid {
+    border: solid green 1px;
+    font-weight: bold;
+    width: 200px;
+}
+
+.asteroid-big{
+    background: yellow;
+    color: blue;
+    width: 200px;
+}
+
+.asteroidb {
+    color:blue;
+    font-weight: bold;
+}
